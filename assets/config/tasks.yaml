@@ -1,0 +1,6 @@
+###
+### Adicionar isso na pasta 
+### assets/config/tasks.yaml do seu servidor
+###
+
+firebase-start: com.venosyd.open.firebase.tasks.FirebaseStart

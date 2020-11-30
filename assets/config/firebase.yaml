@@ -1,0 +1,12 @@
+###
+### Adicionar isso na pasta 
+### assets/config/ do seu servidor
+###
+
+# localizacao do arquivo de configuracoes
+# de preferencia em um lugar seguro
+config-location: -----------
+
+# cada projeto no firebase tem seu codigo
+# insira-o aqui
+app-code: ------ 
